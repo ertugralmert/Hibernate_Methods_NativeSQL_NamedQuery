@@ -1,0 +1,14 @@
+
+‹
+java:S1192/"HDefine a constant instead of duplicating this literal "comment" 4 times.(È§¬8À‹¬ô1J$5a426d95-bfe0-440e-8cb8-c803c60a3b41
+
+java:S1192D"GDefine a constant instead of duplicating this literal "postid" 3 times.(¦°ÿíùÿÿÿÿ8À‹¬ô1J$437cae57-22f9-4430-8720-9d94bd0409c0
+
+java:S1192m"GDefine a constant instead of duplicating this literal "userid" 3 times.(ğàŒÆıÿÿÿÿ8¦¬ô1J$e8f1af6c-9b4b-43bf-806c-f92edecfd0bc
+§
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(áŒùşÿÿÿÿ8À‹¬ô1J$9537ab88-77e7-49ce-a4a6-db2ea789acf9
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰ÔÍ†ùÿÿÿÿ8À‹¬ô1J$3db0b8d7-7c45-4ddc-83df-cd3650e3edd9
+_
+java:S1116"Remove this empty statement.(ŸäÜõ8˜À‹¬ô1J$7b55d3db-4cba-4136-adcd-acb6ae8adabe
+~	java:S1252"<This block of commented-out lines of code should be removed.(Ô–Ôİ8™À‹¬ô1J$5e4af0e2-1ddb-4910-a30f-8054731b77c8
+~	java:S125j"<This block of commented-out lines of code should be removed.( ÈÏ¾8›À‹¬ô1J$ff1156f9-2cd9-445e-8556-fe7deb90d670
